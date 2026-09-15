@@ -1,7 +1,7 @@
 {
   "$GMSprite":"v2",
   "%Name":"spr_vfx_capivara",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":15,
   "bbox_left":0,
   "bbox_right":24,
@@ -29,7 +29,7 @@
   ],
   "name":"spr_vfx_capivara",
   "nineSlice":null,
-  "origin":0,
+  "origin":4,
   "parent":{
     "name":"VFX",
     "path":"folders/Sprites/VFX.yy",
@@ -99,8 +99,8 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":12,
+    "yorigin":8,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
