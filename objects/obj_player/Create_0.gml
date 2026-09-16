@@ -33,6 +33,12 @@ playerPerdeu = function(){
 	var _cam_y = camera_get_view_height(view_camera[0]) + camera_get_view_y(view_camera[0])
 	if(y > _cam_y)
 	{
+		if(global.pontosMaximo > global.pontosFinal)
+		{
+			global.pontosFinal = global.pontosMaximo
+		}
+		
+		global.pontosMaximo = 0
 		global.cameraAtual = 0
 		room_goto(rm_menu)
 		//room_restart()
