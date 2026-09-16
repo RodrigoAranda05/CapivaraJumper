@@ -1,8 +1,8 @@
 {
   "$GMSprite":"v2",
   "%Name":"spr_plataforma_queda",
-  "bboxMode":0,
-  "bbox_bottom":8,
+  "bboxMode":2,
+  "bbox_bottom":1,
   "bbox_left":0,
   "bbox_right":63,
   "bbox_top":0,

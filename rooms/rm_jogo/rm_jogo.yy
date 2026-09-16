@@ -6,12 +6,11 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_468AE5B7","path":"rooms/rm_jogo/rm_jogo.yy",},
     {"name":"inst_326D1DB3","path":"rooms/rm_jogo/rm_jogo.yy",},
     {"name":"inst_23F7B80E","path":"rooms/rm_jogo/rm_jogo.yy",},
     {"name":"inst_22FAC285","path":"rooms/rm_jogo/rm_jogo.yy",},
-    {"name":"inst_F34CA1E","path":"rooms/rm_jogo/rm_jogo.yy",},
-    {"name":"inst_791F7114","path":"rooms/rm_jogo/rm_jogo.yy",},
+    {"name":"inst_468AE5B7","path":"rooms/rm_jogo/rm_jogo.yy",},
+    {"name":"inst_753AF847","path":"rooms/rm_jogo/rm_jogo.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -22,8 +21,7 @@
       ],"layers":[],"name":"player","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"plataforma","depth":100,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_468AE5B7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_468AE5B7","objectId":{"name":"obj_plataforma","path":"objects/obj_plataforma/obj_plataforma.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":91.0,"y":288.0,},
-        {"$GMRInstance":"v4","%Name":"inst_F34CA1E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_F34CA1E","objectId":{"name":"obj_plataforma2","path":"objects/obj_plataforma2/obj_plataforma2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":144.0,"y":192.0,},
-        {"$GMRInstance":"v4","%Name":"inst_791F7114","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_791F7114","objectId":{"name":"obj_plataforma_movel","path":"objects/obj_plataforma_movel/obj_plataforma_movel.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":91.0,"y":133.0,},
+        {"$GMRInstance":"v4","%Name":"inst_753AF847","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_753AF847","objectId":{"name":"obj_gerador","path":"objects/obj_gerador/obj_gerador.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":0.0,},
       ],"layers":[],"name":"plataforma","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.5,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_bg_jogo","path":"sprites/spr_bg_jogo/spr_bg_jogo.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],
