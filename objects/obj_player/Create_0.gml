@@ -33,7 +33,7 @@ playerPerdeu = function(){
 	if(y > _cam_y)
 	{
 		global.cameraAtual = 0
-		//room_goto(rm_menu)
-		room_restart()
+		room_goto(rm_menu)
+		//room_restart()
 	}
 }
