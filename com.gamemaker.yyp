@@ -45,7 +45,9 @@
   "resources":[
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
     {"id":{"name":"obj_acai","path":"objects/obj_acai/obj_acai.yy",},},
+    {"id":{"name":"obj_botao_destino","path":"objects/obj_botao_destino/obj_botao_destino.yy",},},
     {"id":{"name":"obj_botao_menu","path":"objects/obj_botao_menu/obj_botao_menu.yy",},},
+    {"id":{"name":"obj_botao_skin","path":"objects/obj_botao_skin/obj_botao_skin.yy",},},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_gerador","path":"objects/obj_gerador/obj_gerador.yy",},},
     {"id":{"name":"obj_plataforma_movel","path":"objects/obj_plataforma_movel/obj_plataforma_movel.yy",},},
@@ -56,6 +58,7 @@
     {"id":{"name":"obj_score","path":"objects/obj_score/obj_score.yy",},},
     {"id":{"name":"obj_vfx_player","path":"objects/obj_vfx_player/obj_vfx_player.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
+    {"id":{"name":"rm_loja","path":"rooms/rm_loja/rm_loja.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"scr_globais","path":"scripts/scr_globais/scr_globais.yy",},},
     {"id":{"name":"spr_acai","path":"sprites/spr_acai/spr_acai.yy",},},
@@ -90,8 +93,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"roomId":{"name":"rm_loja","path":"rooms/rm_loja/rm_loja.yy",},},
     {"roomId":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
+    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

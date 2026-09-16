@@ -7,7 +7,8 @@ criandoPlataforma = function()
 	var _plataforma = choose(obj_plataforma,obj_plataforma2,obj_plataforma_movel,obj_plataforma_queda)
 	instance_create_layer(_posicao_x, posicao_y, layer, _plataforma)
 	
-	var _chanceAcai = round(random_range(1,3))
+	//var _chanceAcai = round(random_range(1,3))
+	var _chanceAcai = 1
 	if(_chanceAcai == 1)
 	{
 		var _acai = instance_create_layer(_posicao_x, posicao_y - 15, layer, obj_acai)

@@ -2,6 +2,7 @@ gravity = .1
 vel = 1
 forcaPulo = -5
 y_inicial = y
+sprite_index = global.skin
 
 controla_player = function()
 {

@@ -23,7 +23,7 @@
   ],
   "name":"spr_boto",
   "nineSlice":null,
-  "origin":4,
+  "origin":9,
   "parent":{
     "name":"PERSONAGEM",
     "path":"folders/Sprites/PERSONAGEM.yy",
@@ -75,7 +75,7 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":14,
+    "xorigin":10,
     "yorigin":10,
   },
   "swatchColours":null,
