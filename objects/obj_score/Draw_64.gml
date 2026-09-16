@@ -4,6 +4,7 @@ draw_set_halign(1)
 draw_set_valign(1)
 
 draw_text(220,10,global.pontosMaximo)
+draw_text(220,30,global.acai)
 
 draw_set_font(-1);
 draw_set_colour(0)
