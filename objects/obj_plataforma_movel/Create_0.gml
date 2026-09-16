@@ -1,2 +1,11 @@
 velh = 1
-hspeed = velh
+
+var _dir = choose(true,false)
+if(_dir)
+{
+	hspeed = velh
+}
+else
+{
+	hspeed = -velh
+}

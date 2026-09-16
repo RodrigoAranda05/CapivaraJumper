@@ -44,6 +44,7 @@
   "name":"com.gamemaker",
   "resources":[
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
+    {"id":{"name":"obj_acai","path":"objects/obj_acai/obj_acai.yy",},},
     {"id":{"name":"obj_botao_menu","path":"objects/obj_botao_menu/obj_botao_menu.yy",},},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_gerador","path":"objects/obj_gerador/obj_gerador.yy",},},
